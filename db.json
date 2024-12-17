@@ -8,12 +8,12 @@
       {"id":1, "quantidadeTotal": 5, "Preço": 79.50, "quantidadeCamas": 12, "quantidadeAdultos": 2, "quantidadeCrianças": 1},
       {"id":2, "quantidadeTotal": 3, "Preço": 19.50, "quantidadeCamas": 16, "quantidadeAdultos": 3, "quantidadeCrianças": 1},
       {"id":3, "quantidadeTotal": 12, "Preço": 45.50, "quantidadeCamas": 1, "quantidadeAdultos": 2, "quantidadeCrianças": 2}
-   ]
+   ],
    "tipoQuartoNoQuarto": [
         {"id":1, "idQuarto":1, "idTipoQuarto":1},
         {"id":2, "idQuarto":1, "idTipoQuarto":2},
         {"id":3, "idQuarto":2, "idTipoQuarto":1}
-    ]
+    ],
    "quartoNaHospedagem": [
         {"id":1, "idQuarto":1, "idHospedagem":1},
         {"id":2, "idQuarto":1, "idHospedagem":2},
