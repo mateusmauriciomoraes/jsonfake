@@ -4,7 +4,7 @@
       {"id":2, "situação": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 1},
       {"id":3, "situação": "Em manutenção", "numero": 139, "idTipoDeQuarto": 2}
    ],
-   "tipoDeQuartos": [
+   "tipoQuartos": [
       {"id":1, "quantidadeTotal": 5, "Preço": 79.50, "quantidadeCamas": 12, "quantidadeAdultos": 2, "quantidadeCrianças": 1},
       {"id":2, "quantidadeTotal": 3, "Preço": 19.50, "quantidadeCamas": 16, "quantidadeAdultos": 3, "quantidadeCrianças": 1},
       {"id":3, "quantidadeTotal": 12, "Preço": 45.50, "quantidadeCamas": 1, "quantidadeAdultos": 2, "quantidadeCrianças": 2}
