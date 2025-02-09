@@ -1,7 +1,7 @@
 {
    "tipoDeCama": [
-      {"id":1, "nome": "Administrador", "descricao": "", "hotel": "HoteLeo"},
-      {"id":2, "nome": "Gerente", "descricao": "", "hotel": "HoteLeo"},
-      {"id":3, "nome": "Funcionario", "descricao": "", "hotel": "oTheo"}
+      {"id":1, "nome": "Administrador", "descricao": "gerenciar o sistema e os gerentes"},
+      {"id":2, "nome": "Gerente", "descricao": "gerenciar funcionarios e realizar tarefas que demandam maior autoridade"},
+      {"id":3, "nome": "Funcionario", "descricao": "gerenciar e realizar tarefas operacionais tais como serviços, hospedagens, quartos"}
     ]
 }
